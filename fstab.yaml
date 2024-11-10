@@ -1,5 +1,8 @@
 mountpoints:
   /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
-  https://author-p135331-e1368548.adobeaemcloud.com/bin/franklin.delivery/shellygoel06/msil-poc/main
+  url: "https://author-p135331-e1368548.adobeaemcloud.com/bin/franklin.delivery/shellygoel06/msil-poc/main"
+  type: "markup"
+  suffix: ".html"
+  
 folders:
   /products/: /products/default
